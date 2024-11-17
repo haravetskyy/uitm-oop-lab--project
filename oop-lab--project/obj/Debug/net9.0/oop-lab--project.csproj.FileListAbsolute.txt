@@ -1,0 +1,15 @@
+/Users/mage3000/RiderProjects/uitm-oop-lab--project/oop-lab--project/bin/Debug/net9.0/oop-lab--project
+/Users/mage3000/RiderProjects/uitm-oop-lab--project/oop-lab--project/bin/Debug/net9.0/oop-lab--project.deps.json
+/Users/mage3000/RiderProjects/uitm-oop-lab--project/oop-lab--project/bin/Debug/net9.0/oop-lab--project.runtimeconfig.json
+/Users/mage3000/RiderProjects/uitm-oop-lab--project/oop-lab--project/bin/Debug/net9.0/oop-lab--project.dll
+/Users/mage3000/RiderProjects/uitm-oop-lab--project/oop-lab--project/bin/Debug/net9.0/oop-lab--project.pdb
+/Users/mage3000/RiderProjects/uitm-oop-lab--project/oop-lab--project/obj/Debug/net9.0/oop-lab--project.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mage3000/RiderProjects/uitm-oop-lab--project/oop-lab--project/obj/Debug/net9.0/oop-lab--project.AssemblyInfoInputs.cache
+/Users/mage3000/RiderProjects/uitm-oop-lab--project/oop-lab--project/obj/Debug/net9.0/oop-lab--project.AssemblyInfo.cs
+/Users/mage3000/RiderProjects/uitm-oop-lab--project/oop-lab--project/obj/Debug/net9.0/oop-lab--project.csproj.CoreCompileInputs.cache
+/Users/mage3000/RiderProjects/uitm-oop-lab--project/oop-lab--project/obj/Debug/net9.0/oop-lab--project.sourcelink.json
+/Users/mage3000/RiderProjects/uitm-oop-lab--project/oop-lab--project/obj/Debug/net9.0/oop-lab--project.dll
+/Users/mage3000/RiderProjects/uitm-oop-lab--project/oop-lab--project/obj/Debug/net9.0/refint/oop-lab--project.dll
+/Users/mage3000/RiderProjects/uitm-oop-lab--project/oop-lab--project/obj/Debug/net9.0/oop-lab--project.pdb
+/Users/mage3000/RiderProjects/uitm-oop-lab--project/oop-lab--project/obj/Debug/net9.0/oop-lab--project.genruntimeconfig.cache
+/Users/mage3000/RiderProjects/uitm-oop-lab--project/oop-lab--project/obj/Debug/net9.0/ref/oop-lab--project.dll
